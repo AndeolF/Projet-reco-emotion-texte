@@ -4,4 +4,4 @@ Ce projet s'inscrit dans le cadre de mon cursus scolaire à CentraleSupélec. Il
 
 Pour entraîner mon modèle, je vais utiliser la base de données IEMOCAP, qui contient de nombreuses transcriptions de dialogues étiquetées.
 
-Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école.
+Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école. Il est annoté et commenté afin d'expliquer mes choix.
