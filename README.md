@@ -4,8 +4,8 @@ Ce projet s'inscrit dans le cadre de mon cursus scolaire à CentraleSupélec. Il
 
 Pour entraîner mon modèle, je vais utiliser la base de données IEMOCAP, qui contient de nombreuses transcriptions de dialogues étiquetées.
 
-<<<<<<< HEAD
-Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école.
+Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école. Il est annoté et commenté afin d'expliquer mes choix.
+
 
 # Configuration de l'Environnement Virtuel
 
@@ -19,7 +19,7 @@ assurez vous également d'avoir la possibilité de pouvoir installer des environ
 ## Installation
 
 1. **Cloner le dépôt**  
-   Pour commencer, clonez ce dépôt sur votre machine locale en utilisant la commande suivante : https://github.com/AndeolF/Projet-reco-emotion-texte.git
+   Pour commencer, clonez ce dépôt sur votre machine locale en utilisant la commande suivante : git clone https://github.com/AndeolF/Projet-reco-emotion-texte.git
 
 2. **Naviguer dans le dossier du projet**  
 Changez de répertoire pour aller dans le dossier du projet cloné : cd Projet-reco-emotion-texte
@@ -32,14 +32,9 @@ Cela crée un dossier `env` qui contiendra tous les packages Python nécessaires
 4. **Activer l'environnement virtuel**  
 Avant de travailler sur votre projet, vous devez activer l'environnement virtuel. Vous pouvez le faire avec les commandes suivantes :
 
-- Sur Windows :
-  ```
-  env\Scripts\activate
-  ```
-- Sur macOS et Linux :
-  ```
-  source env/bin/activate
-  ```
+- Sur Windows :  env\Scripts\activate
+
+- Sur macOS et Linux :  source env/bin/activate
 
 Vous saurez que l'environnement virtuel est activé car le nom de l'environnement (`env`) apparaîtra sur votre ligne de commande.
 
@@ -53,6 +48,4 @@ Avec l'environnement configuré et les dépendances installées, vous pouvez mai
 ## Désactivation de l'environnement virtuel
 
 Lorsque vous avez terminé de travailler dans l'environnement virtuel, vous pouvez le désactiver en exécutant : deactivate
-=======
-Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école. Il est annoté et commenté afin d'expliquer mes choix.
->>>>>>> be205e7cf4a1ef45506faafb11f21956a2f77b62
+
