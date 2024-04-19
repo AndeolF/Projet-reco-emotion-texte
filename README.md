@@ -4,6 +4,7 @@ Ce projet s'inscrit dans le cadre de mon cursus scolaire à CentraleSupélec. Il
 
 Pour entraîner mon modèle, je vais utiliser la base de données IEMOCAP, qui contient de nombreuses transcriptions de dialogues étiquetées.
 
+<<<<<<< HEAD
 Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école.
 
 # Configuration de l'Environnement Virtuel
@@ -52,3 +53,6 @@ Avec l'environnement configuré et les dépendances installées, vous pouvez mai
 ## Désactivation de l'environnement virtuel
 
 Lorsque vous avez terminé de travailler dans l'environnement virtuel, vous pouvez le désactiver en exécutant : deactivate
+=======
+Ce projet a été réalisé en une semaine, conformément à la date limite fixée par l'école. Il est annoté et commenté afin d'expliquer mes choix.
+>>>>>>> be205e7cf4a1ef45506faafb11f21956a2f77b62
