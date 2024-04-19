@@ -26,7 +26,7 @@ Changez de répertoire pour aller dans le dossier du projet cloné : cd Projet-r
 
 3. **Créer l'environnement virtuel**  
 Exécutez la commande suivante pour créer un environnement virtuel dans le répertoire du projet : python -m venv env
-git statue
+
 Cela crée un dossier `env` qui contiendra tous les packages Python nécessaires.
 
 4. **Activer l'environnement virtuel**  
