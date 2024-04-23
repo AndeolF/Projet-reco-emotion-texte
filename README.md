@@ -9,7 +9,7 @@ Ce projet a été réalisé en une semaine, conformément à la date limite fix�
 
 # Configuration de l'Environnement Virtuel
 
-Pour exécuter ce projet, il est recommandé d'utiliser un environnement virtuel. Cela permet de gérer les dépendances du projet de manière isolée. Voici comment mettre en place et activer un environnement virtuel.
+Pour exécuter ce projet, je vous recommande d'utiliser un environnement virtuel. Cela permet de gérer les dépendances du projet de manière isolée. Voici comment mettre en place et activer un environnement virtuel.
 
 ## Prérequis
 
